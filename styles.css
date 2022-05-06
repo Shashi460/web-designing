@@ -1,0 +1,189 @@
+body{
+  background-color:#EAF6F6;
+}
+.top-container{
+  background-color:#EAF6F6;
+  position:relative;
+  left:350px;
+  width:100%;
+}
+
+
+h1{
+  font-family:Brush Script MT;
+  font-size: 60px;
+  color:#66BFBF;
+  position: relative;
+  left: 250px;
+}
+.goal{
+  font-family:'Montserrat',sans-serif;
+  font-size:20px;
+  color:#66BFBF;
+  position: relative;
+  left: 300px;
+  bottom: 20px;
+}
+.boy{
+  height:200px;
+  position: relative;
+  left: 600px;
+}
+.wish{
+  position: relative;
+  left: 680px;
+  font-family:Lucida Sans ;
+  font-size:40px;
+  color:#139487 ;
+}
+.about{
+  font-size: 20px;
+  position: relative;
+  left: 520px;
+  font-family:Rockwell;
+  width:35%;
+}
+.About{
+  font-size: 20px;
+  position: relative;
+  left: 520px;
+  font-family:Rockwell;
+  width:50%;
+}
+.bout{
+  font-size: 20px;
+  position: relative;
+  left: 520px;
+  font-family:Rockwell;
+  width:35%;
+}
+
+
+
+.r{
+border: dotted #66BFBF 6px;
+border-bottom: none;
+margin-top: 150px;
+position: relative;
+right: 90px;
+
+width:5%;
+}
+.h2-1{
+  position: relative;
+  top: 80px;
+  left: 600px;
+  font-size:50px;
+  font-family:Shruti;
+  color: #139487;
+}
+.hero{
+  height:200px;
+  position: relative;
+  left: 350px;
+  top: 100px;
+}
+.last{
+  position: relative;
+  left: 750px;
+  bottom:135px;
+  font-family:Lucida Sans ;
+  font-size: 30px;
+  color:#139487 ;
+}
+.last-1{
+  width:30%;
+  position: relative;
+  left: 750px;
+  bottom:130px;
+  font-family: sans-serif;
+  font-size:20px;
+  line-height: 2;
+
+}
+.last-image{
+  height:200px;
+  position: relative;
+  left: 1100px;
+}
+.last-h{
+  font-family:Lucida Sans ;
+  font-size: 30px;
+  color:#139487 ;
+
+  position: relative;
+  left: 500px;
+  bottom:235px;
+
+
+
+
+}
+.last-2{
+  font-family: sans-serif;
+  font-size:20px;
+  line-height: 2;
+  position: relative;
+  left: 500px;
+  bottom:235px;
+  width:30%;
+
+}
+.last-r{
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  margin-top: 150px;
+  width:5%;
+  position: relative;
+  bottom: 250px;
+  left:15px;
+}
+.h2-2{
+  position: relative;
+
+  left: 650px;
+  bottom:200px;
+  font-size:50px;
+  font-family:Shruti;
+  color: #139487;
+}
+.last-h3{
+  position: relative;
+  left: 550px;
+  bottom: 250px;
+
+  font-family:Lucida Sans ;
+  font-size: 20px;
+  color:#139487 ;
+}
+.last-p{
+  font-family: sans-serif;
+  font-size:20px;
+  line-height: 2;
+  position: relative;
+  left: 450px;
+  bottom:240px;
+  width:45%;
+}
+.Last-p{
+  font-family: sans-serif;
+  font-size:20px;
+  line-height:1;
+  position: relative;
+  left: 500px;
+  bottom:240px;
+  width:45%;
+}
+strong{
+  font-family: sans-serif;
+  font-size:20px;
+  line-height:1;
+  position: relative;
+  left: 700px;
+  bottom:200px;
+  width:45%;
+}
+.position-set{
+  position: relative;
+  right:100px;
+}
